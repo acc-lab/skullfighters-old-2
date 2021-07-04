@@ -1,4 +1,4 @@
-function getLeadings(skull){
+function getLeadings(skull, skulls){
 	//detects leadingL and leadingR for this skull
 	let leadingL=35;
 	let leadingR=1500;

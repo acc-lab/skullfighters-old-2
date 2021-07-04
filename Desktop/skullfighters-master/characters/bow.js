@@ -28,7 +28,7 @@ function skeleton_bow_walking_func(reload=33, //the runtime delay between two sh
 			return;
 		}
 
-		skull.tick+=1;
+		this.tick+=1;
 
 		dir=this.dir;
 
